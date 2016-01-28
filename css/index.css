@@ -1,0 +1,11 @@
+    .list-group {
+        margin-left: 160px;
+    }
+    
+    .list-group-item {
+        width: 320px;
+    }
+    
+    .span {
+        float: right;
+    }
